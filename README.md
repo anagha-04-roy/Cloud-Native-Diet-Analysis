@@ -94,6 +94,7 @@ Cloud-Native-Diet-Analysis/
 
 * Task 4: GitHub Repository Management
 * GitHub Actions CI/CD Pipeline
+* Task 5: Enhancement Research (Multi‑stage Docker builds + Serverless cold‑start optimization)
 
 
 
