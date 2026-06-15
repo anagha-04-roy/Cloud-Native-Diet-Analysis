@@ -12,7 +12,6 @@ The dataset analysis component is based on the project requirements provided in 
 
 As a team, we downloaded the dataset, reviewed the requirements, and verified the project setup.
 
-*(This section will be updated once the team completes the implementation and analysis.)*
 
 
 
@@ -25,7 +24,6 @@ Person A is responsible for:
 * Simulating deployment using Docker
 * Performing container validation and testing
 
-*(This section will be updated when Task 2 is completed.)*
 
 
 
@@ -39,7 +37,6 @@ Person B is responsible for:
 * Processing nutritional data
 * Saving results to simulated NoSQL storage
 
-*(This section will be updated when Task 3 is completed.)*
 
 
 
