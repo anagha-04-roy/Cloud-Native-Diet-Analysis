@@ -99,6 +99,4 @@ Cloud-Native-Diet-Analysis/
 
 This repository is actively being developed as part of the course project.
 
-Additional code, documentation, screenshots, and configuration files will be added as team members complete their assigned tasks.
-
 The repository serves as the central location for project collaboration, version control, and integration of all project deliverables.
